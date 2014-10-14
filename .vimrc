@@ -18,6 +18,8 @@ set sidescroll=1
 
 color mustang
 
+autocmd Filetype javascript set tabstop=2 shiftwidth=2 softtabstop=2
+
 nnoremap Y y$
 
 " Arrows are evil

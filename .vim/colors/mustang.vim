@@ -60,6 +60,3 @@ hi SpellBad ctermfg=231 cterm=bold
 
 " Code-specific colors
 hi pythonOperator guifg=#7e8aa2 gui=none ctermfg=103
-
-
-(END)
