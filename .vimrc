@@ -15,6 +15,7 @@ set ttimeoutlen=10
 set scrolloff=3
 set sidescrolloff=15
 set sidescroll=1
+set hlsearch
 
 color mustang
 
