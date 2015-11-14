@@ -17,6 +17,8 @@ set sidescrolloff=15
 set sidescroll=1
 set hlsearch
 
+syntax on
+
 color mustang
 
 autocmd Filetype javascript set tabstop=2 shiftwidth=2 softtabstop=2
