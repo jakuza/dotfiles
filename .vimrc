@@ -16,6 +16,7 @@ set scrolloff=3
 set sidescrolloff=15
 set sidescroll=1
 set hlsearch
+set textwidth=100
 
 syntax on
 
@@ -45,6 +46,7 @@ Plugin 'gmarik/Vundle.vim'
 Plugin 'kien/ctrlp.vim'
 Plugin 'bling/vim-airline'
 Plugin 'mileszs/ack.vim'
+Plugin 'lumiliet/vim-twig'
 
 call vundle#end()
 filetype plugin indent on
