@@ -17,6 +17,8 @@ set sidescrolloff=15
 set sidescroll=1
 set hlsearch
 set textwidth=100
+set secure
+set exrc
 
 syntax on
 
@@ -25,6 +27,7 @@ color mustang
 autocmd Filetype javascript set tabstop=2 shiftwidth=2 softtabstop=2
 
 nnoremap Y y$
+inoremap jj <Esc>`^
 
 " Arrows are evil
 inoremap    <Up> <NOP>
